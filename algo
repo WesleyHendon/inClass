@@ -1,4 +1,7 @@
 1. decide pizza
 2. how many pizza
 3. beer quantity
-4. test
+4. call the pizza place
+    a. they answer (step 5)
+    b. they dont answer (step 4)
+5. tell them what you want
